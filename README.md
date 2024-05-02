@@ -1,3 +1,3 @@
 # timnas_talk
 
-Proyek Tengah Semester Pemrograman Web Mobile
+Proyek Tengah Semester Framework Mobile
